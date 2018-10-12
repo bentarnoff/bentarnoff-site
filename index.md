@@ -12,6 +12,8 @@ ben AT bentarnoff.com<br>
 	<div class="col-md-3">
 	<div class="column">
 		<h2>2018</h2>
+		<li><a href="https://www.theguardian.com/commentisfree/2018/oct/11/war-jedi-algorithmic-warfare-us-military">Weaponised AI is coming. Are algorithmic forever wars our future?</a>, <em>The Guardian</em>, August 9, 2018.</li>
+
 		<li><a href="https://www.theguardian.com/commentisfree/2018/aug/09/silicon-valley-tech-workers-labor-activism">Can Silicon Valley workers rein in big tech from within?</a>, <em>The Guardian</em>, August 9, 2018.</li>
 
 		<li><a href="https://jacobinmag.com/2018/06/google-project-maven-military-tech-workers">Tech Workers Versus the Pentagon</a>, <em>Jacobin</em>, June 6, 2018.</li>
