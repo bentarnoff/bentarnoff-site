@@ -16,7 +16,6 @@
 title: Ben Tarnoff
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
-  The website of Ben Tarnoff.
 url: "http://bentarnoff.com" 
 
 repository: "bentarnoff/bentarnoff.github.io"
