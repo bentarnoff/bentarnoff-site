@@ -1,93 +1,128 @@
 ---
 layout: page
-title: Bootstrap 4 Github Pages
+title: Ben Tarnoff
 ---
 
-A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
+ben AT bentarnoff.com<br>
+<a href="http://twitter.com/bentarnoff">twitter.com/bentarnoff</a>
 
-* A full Bootstrap 4 theme usable both on Github Pages and with a standalone Jekyll.
-* Recompiles Bootstrap from SCSS files, which allows to customize Bootstrap's variables and use Bootstrap themes.
-* Full support of Bootstrap's JavaScript plugins.
-* Supports all features of Github Pages and Jekyll.
 
-## Setup Guide
+<div class="jumbo">
+	<div class="row">
+	<div class="col-md-3">
+	<div class="column">
+		<h2>2018</h2>
+		<li><a href="https://www.theguardian.com/commentisfree/2018/aug/09/silicon-valley-tech-workers-labor-activism">Can Silicon Valley workers rein in big tech from within?</a>, <em>The Guardian</em>, August 9, 2018.</li>
 
-### Fork this repository
+		<li><a href="https://jacobinmag.com/2018/06/google-project-maven-military-tech-workers">Tech Workers Versus the Pentagon</a>, <em>Jacobin</em>, June 6, 2018.</li>
+		
+		<li><a href="https://www.theguardian.com/books/2018/may/31/mistaken-identity-by-asad-haider-review">Mistaken Identity by Asad Haider review – the best criticism of identity politics</a>, <em>The Guardian</em>, May 31, 2018.</li>
+		
+		<li><a href="https://www.theguardian.com/news/2018/may/03/why-silicon-valley-cant-fix-itself-tech-humanism">Why Silicon Valley can’t fix itself</a>, <em>The Guardian</em>, May 3, 2018.</li>
+		
+		<li><a href="https://www.jacobinmag.com/2018/04/big-tech-techlash-facebook-cambridge-analytica">A Socialist Silicon Valley</a>, <em>Jacobin</em>, April 18, 2018.</li>
+		
+		<li><a href="https://www.jacobinmag.com/2018/04/lanetix-tech-workers-unionization-campaign-firing">Coding and Coercion</a>, <em>Jacobin</em>, April 11, 2018.</li>
+		
+		<li><a href="https://www.theguardian.com/technology/2018/mar/14/tech-big-data-capitalism-give-wealth-back-to-people">Big data for the people: it's time to take it back from our tech overlords</a>, <em>The Guardian</em>, March 14, 2018.</li>
+		
+		<li><a href="https://logicmag.io/04-the-data-is-ours/">The Data Is Ours!</a>, <em>Logic</em>, Spring 2018.</li>
 
-[Go to this repository page on Github](https://github.com/nicolas-van/bootstrap-4-github-pages) and click the `Fork` button on the top right of the page.
+		<li><a href="https://www.theguardian.com/technology/2018/jan/31/data-laws-corporate-america-capitalism">Data is the new lifeblood of capitalism – don't hand corporate America control</a>, <em>The Guardian</em>, February 1, 2018.</li>
+	</div>
+	</div>
+	<div class="col-md-3">
+	<div class="column">
+		<h2>2017</h2>
+		<li><a href="https://www.theguardian.com/technology/2017/dec/14/facebook-russia-social-media-propaganda">The new cold war: how our focus on Russia obscures social media's real threat</a>, <em>The Guardian</em>, December 14, 2017.</li>
 
-### Rename your forked repository
+		<li><a href="https://www.theguardian.com/technology/2017/nov/29/net-neutrality-internet-basic-right-america-trump-administration">Time to release the internet from the free market – and make it a basic right</a>, <em>The Guardian</em>, November 29, 2017.</li>
 
-Here we have two possibilities:
+		<li><a href="https://www.theguardian.com/technology/2017/oct/25/empathy-virtual-reality-facebook-mark-zuckerberg-puerto-rico">Empathy – the latest gadget Silicon Valley wants to sell you</a>, <em>The Guardian</em>, October 25, 2017.</li>
 
-* **You want a user or organization website**
+		<li><a href="https://www.theguardian.com/books/2017/oct/25/world-without-mind-by-franklin-foer-review">World Without Mind by Franklin Foer review – the turn against Big Tech</a>, <em>The Guardian</em>, October 25, 2017.</li>
 
-  In this case your website's URL will be `http://<your username>.github.io` where `<your username>` is your Github user name.
+		<li><a href="https://www.theguardian.com/technology/2017/sep/21/coding-education-teaching-silicon-valley-wages">Tech's push to teach coding isn't about kids' success – it's about cutting wages</a>, <em>The Guardian</em>, September 21, 2017.</li>
 
-  Go in the `Settings` page of your repository and rename it to `<your username>.github.io`.
+		<li><a href="https://www.theguardian.com/world/2017/aug/23/silicon-valley-big-data-extraction-amazon-whole-foods-facebook">Silicon Valley siphons our data like oil. But the deepest drilling has just begun</a>, <em>The Guardian</em>, August 23, 2017.</li>
+		
+		<li><a href="https://www.jacobinmag.com/2017/08/bill-gates-wont-save-us/">Bill Gates Won’t Save Us</a>, <em>Jacobin</em>, August 15, 2017.</li>
 
-* **You want a project website**
+		<li><a href="https://logicmag.io/02-home-invasion/">Home Invasion</a>, <em>Logic</em>, Summer 2017.</li>
 
-  In this case your website's URL will be `http://<your username>.github.io/<whatever you want>` where `<whatever you want>` can be any valid name for a Github repository.
+		<li><a href="https://www.theguardian.com/media/2017/jul/12/social-media-socialism-jeremy-corbyn-bernie-sanders">How social media saved socialism</a>, <em>The Guardian</em>, July 21, 2017.</li>
+		
+		<li><a href="https://www.theguardian.com/technology/2017/jun/21/privatizing-public-services-trump-democracy">How privatization could spell the end of democracy</a>, <em>The Guardian</em>, June 21, 2017.</li>
 
-  Go in the `Settings` page of your repository and rename it to `<whatever you want>`.
+		<li><a href="https://www.wsj.com/articles/the-dark-webs-dark-prince-1497307220">The Dark Web's Dark Prince</a>, a review of <em>American Kingpin: The Epic Hunt for the Criminal Mastermind Behind the Silk Road</em> by Nick Bilton, <em>The Wall Street Journal</em>, June 12, 2017.</li>
 
-### Activate Github Pages on your repository
+		<li><a href="https://www.theguardian.com/technology/2017/may/11/tech-innovation-silicon-valley-juicero">America has become so anti-innovation – it's economic suicide</a>, <em>The Guardian</em>, May 11, 2017.</li>
 
-Go in the `Settings` page of your repository, in the `Github Pages`, under the `Source` parameter, choose `master branch` then `Save`.
+		<li><a href="https://www.jacobinmag.com/2017/05/tech-workers-silicon-valley-trump-resistance-startups-unions">Trump's Tech Opposition</a>, with Matt Schaefer and Kristen Sheets, <em>Jacobin</em>, May 2, 2017.</li>
 
-### That's it
+		<li><a href="https://www.theguardian.com/technology/2017/apr/24/new-status-symbol-hard-work-spending-ceos">The new status symbol: it’s not what you spend – it’s how hard you work</a>, <em>The Guardian</em>, April 24, 2017.</li>
 
-Your Github Pages website with customizable Bootstrap 4 is now up and running, you can access it using the URL displayed by Github in the `Github Pages` settings.
+		<li><a href="http://inference-review.com/article/the-role-of-the-working-class">The Role of the Working Class</a>, a response to Wolfgang Streeck, <em>Inference</em>, April 7, 2017.</li>
 
-## Customization Guide
+		<li><a href="https://www.jacobinmag.com/2017/04/internet-privacy-data-collection-trump-isps-fcc/">Socialize the Internet</a>, <em>Jacobin</em>, April 4, 2017.</li>
 
-### Modify the configuration
+		<li><a href="https://www.theguardian.com/technology/2017/mar/02/robot-tax-job-elimination-livable-wage">Robots won't just take our jobs – they'll make the rich even richer</a>, <em>The Guardian</em>, March 2, 2017.</li>
 
-You should at least edit the `_config.yml` file to edit your website's metadata, like the title, description and repository URL.
+		<li><a href="https://www.theguardian.com/technology/2017/jan/24/silicon-valley-fights-donald-trump-peter-thiel-palantir">Trump needs tech to achieve his vision. But Silicon Valley isn't having it</a>, <em>The Guardian</em>, January 24, 2017.</li>
+	</div>
+	</div>
 
-### Customize your theme
+	<div class="col-md-3">
+	<div class="column">
+	<h2>2016</h2>
+	<li><a href="https://www.theguardian.com/books/2016/dec/26/the-attention-merchants-tim-wu-review">The Attention Merchants review – how the web is being debased for profit</a>, <em>The Guardian</em>, December 26, 2016.</li>
 
-Let's be honest, this theme uses a vanilla version of Bootstrap 4 and an unmodified Bootstrap is quite unpleasant to the eye. You want to change that.
+	<li><a href="https://www.theguardian.com/us-news/2016/dec/13/donald-trump-silicon-valley-leaders-neoliberalism-administration">Neoliberalism turned our world into a business. And there are two big winners</a>, <em>The Guardian</em>, December 13, 2016.</li>
 
-You can of course modify anything in the `_includes`, `_layouts` and `_sass` folders to customize both the HTML or CSS of your website, possibly referring to the [Bootstrap documentation](https://getbootstrap.com/) or the [Jekyll documentation](https://jekyllrb.com/) when needed. This is a normal part of web development and it is outside the scope of this guide.
+	<li><a href="https://www.theguardian.com/books/2016/nov/24/four-futures-life-after-capitalism-peter-frase-review-robots">Four Futures: Life After Capitalism review – will robots bring utopia or terror?</a>, <em>The Guardian</em>, November 24, 2016.</li>
 
-But if you don't know where to start I can recommend you to import a starting theme from [Bootswatch](https://bootswatch.com/).
+	<li><a href="https://www.theguardian.com/us-news/2016/nov/09/us-election-political-movement-trumpism">The triumph of Trumpism: the new politics that is here to stay</a>, <em>The Guardian</em>, November 9, 2016.</li>
 
-* Go on [Bootswatch](https://bootswatch.com/) and choose a theme that you like.
-* Using the top bar, download its `_variables.scss` and `_bootswatch.scss` files.
-* Copy the content of `_variables.scss` in `_sass/_variables.scss`.
-* Copy the content of `_bootswatch.scss` in `_sass/_bootstrap_customization.scss`.
+	<li><a href="https://www.theguardian.com/technology/2016/oct/17/sharing-economy-capitalism-uber-airbnb-ownership">The future: where borrowing is the norm and ownership is luxury</a>, <em>The Guardian</em>, October 17, 2016.</li>
 
-That's it, you now have a totally different appearance compared to a vanilla Bootstrap 4.
+	<li><a href="https://www.theguardian.com/technology/2016/sep/15/silicon-valley-tech-industry-elitism-mark-zuckerberg">Gaffes, ignorance and PR nightmares: why it's so easy to hate the tech industry</a>, <em>The Guardian</em>, September 15, 2016.</li>
 
-### Modify the content
+	<li><a href="https://www.jacobinmag.com/2016/08/internet-public-dns-privatization-icann-netflix/">The Internet Should Be a Public Good</a>, <em>Jacobin</em>, August 31, 2016.</li>
 
-You probably don't want the present guide to be the front page of your website, so you should edit the `index.md` file. You probably also want to edit or delete the `CONTRIBUTING.md`, `README.md` and `LICENSE.md` files.
+	<li><a href="https://www.theguardian.com/technology/2016/jul/21/peter-thiel-republican-convention-speech">Donald Trump, Peter Thiel and the death of democracy</a>, <em>The Guardian</em>, July 21, 2016.</li>
 
-Aside from that you can of course create new pages and posts like with any Jekyll website by refering to the [Jekyll documentation](https://jekyllrb.com/).
+	<li><a href="https://www.theguardian.com/technology/2016/jul/15/how-the-internet-was-invented-1976-arpa-kahn-cerf">How the Internet was invented</a>, <em>The Guardian</em>, July 15, 2016.</li>
 
-### Run Jekyll on your computer to speed up testing
+	<li><a href="https://www.theguardian.com/technology/2016/may/16/universal-basic-income-equality-tech-silicon-valley">Tech billionaires got rich off us. Now they want to feed us the crumbs</a>, <em>The Guardian</em>, May 16, 2016.</li>
 
-Editing your website's content or theme directly on Github is completely possible but, due to the time Github Pages takes to update your website, it will probably be much more effective to work using a local Jekyll installation.
+	<li><a href="http://www.theguardian.com/us-news/2016/apr/18/bernie-sanders-techies-support-socialism-capitalism">Techies for Bernie: why some best-paid workers are supporting a socialist</a>, <em>The Guardian</em>, April 18, 2016.</li>
+	</div>
+	</div>
+	<div class="col-md-3">
+	<div class="column">
+	<h2>2011-2014</h2>
+	<li><a href="http://www.thedailybeast.com/articles/2014/04/19/mark-twain-writing-coach-and-role-model.html">Mark Twain, Writing Coach and Role Model</a>, <em>The Daily Beast</em>, April 19, 2014.</li>
 
-To do so:
+	<li><a href="http://www.politico.com/magazine/story/2014/04/cancelcolbert-meet-the-heathen-chinee-105495.html#.U101ROZdVbx">#CancelColbert, Meet &quot;The Heathen Chinee&quot;</a>, <em>Politico</em>, April 8, 2014.</li>
 
-* Install the [requirements for Jekyll](https://jekyllrb.com/docs/installation/).
-* Type `bundle install` at the root of your project to install the necessary Ruby dependencies.
-* Type `bundle exec jekyll serve` to launch the test Jekyll web server that will re-compile your work if you edit it.
-* You can then open `http://localhost:4000` in your web browser to see your work-in-progress website.
+	<li><a href="http://www.salon.com/2014/03/22/how_mark_twain_became_mark_twain_the_amazing_story_of_the_lectures_that_made_him_a_superstar/">How Mark Twain Became Mark Twain</a>, <em>Salon</em>, March 22, 2014.</li>
 
-Please note that, to ensure maximum compatibility with Github Pages, the `Gemfile` of this project references the `github-pages` gem, not Jekyll directly. This implies some differences in behavior compared to the official documentation of Jekyll.
+	<li><a href="http://www.laphamsquarterly.org/roundtable/me-i-sell-abuse">&quot;As for Me, I Sell Abuse&quot;</a>, <em>Lapham&#39;s Quarterly</em>, Feb. 15, 2014.</li>
 
-## Known issues
+	<li><a href="http://www.laphamsquarterly.org/comedy/once-upon-time-west">Once Upon a Time in the West</a>, <em>Lapham&#39;s Quarterly</em>, Jan. 1, 2014.</li>
 
-* Bootstrap 4 should normally be post-processed using [Autoprefixer](https://github.com/postcss/autoprefixer). Even if it is possible to use autoprefixer with Jekyll, it is not possible with a classic Github Pages installation without adding some kind of pre-processing before publication. Since this project mostly aims compatibility with Github Pages I prefer to keep it that way. The consequences of this choice is that some Bootstrap features could not work as expected on older browsers.
+	<li><a href="http://www.newyorker.com/online/blogs/books/2013/11/the-eternal-chatter-of-the-autobiography-of-mark-twain-volume-2.html">Mark Twain&#39;s Eternal Chatter</a>, <em>The New Yorker</em>, Nov. 13, 2013.</li>
 
-## Websites using Bootstrap 4 Github Pages
+	<li><a href="http://opinionator.blogs.nytimes.com/2012/03/27/a-counterfeiting-conspiracy/">A Counterfeiting Conspiracy?</a>, <em>The New York Times</em>, March 27, 2012.</li>
 
-* [My personal blog](https://nicolas-van.github.io/)
+	<li><a href="http://www.laphamsquarterly.org/roundtable/worst-business-world">The Worst Business in the World</a>, <em>Lapham&#39;s Quarterly</em>, Oct. 20, 2011.</li>
 
-## Other projects
+	<li><a href="http://www.laphamsquarterly.org/future/magical-thinking">Magical Thinking</a>, <em>Lapham&#39;s Quarterly</em>, Oct. 1, 2011.</li>
 
-[Easy Markdown to Github Pages](https://nicolas-van.github.io/easy-markdown-to-github-pages/) which document how to publish Markown files to Github Pages in the fastest way.
+	<li><a href="http://opinionator.blogs.nytimes.com/2011/07/16/the-man-who-financed-the-civil-war">The Man Who Financed the Civil War</a>, <em>The New York Times</em>, July 16, 2011.</li>
+
+	<li><a href="http://opinionator.blogs.nytimes.com/2011/03/14/money-for-nothing/">Money for Nothing</a>, <em>The New York Times</em>, March 14, 2011.</li>
+
+	</div>
+	</div>
+	</div>
