@@ -12,6 +12,8 @@ ben AT bentarnoff.com<br>
 	<div class="col-md-3">
 	<div class="column">
 		<h2>2018</h2>
+		<li><a href="https://socialistforum.dsausa.org/issues/fall-2018/building-socialism-from-below-popular-power-and-the-state/">Building Socialism from Below: Popular Power and the State</a>, <em>Socialist Forum</em>, November 2018.</li>
+
 		<li><a href="https://www.theguardian.com/commentisfree/2018/oct/11/war-jedi-algorithmic-warfare-us-military">Weaponised AI is coming. Are algorithmic forever wars our future?</a>, <em>The Guardian</em>, October 11, 2018.</li>
 
 		<li><a href="https://www.theguardian.com/commentisfree/2018/aug/09/silicon-valley-tech-workers-labor-activism">Can Silicon Valley workers rein in big tech from within?</a>, <em>The Guardian</em>, August 9, 2018.</li>
