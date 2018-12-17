@@ -12,6 +12,8 @@ ben AT bentarnoff.com<br>
 	<div class="col-md-3">
 	<div class="column">
 		<h2>2018</h2>
+		<li><a href="https://www.theguardian.com/books/2018/dec/17/the-next-left-socialism-in-the-uk-and-the-us">Next left: Corbyn, Sanders and the return of socialism</a>, <em>The Guardian</em>, December 17, 2018.</li>
+		
 		<li><a href="https://socialistforum.dsausa.org/issues/fall-2018/building-socialism-from-below-popular-power-and-the-state/">Building Socialism from Below: Popular Power and the State</a>, <em>Socialist Forum</em>, November 2018.</li>
 
 		<li><a href="https://www.theguardian.com/commentisfree/2018/oct/11/war-jedi-algorithmic-warfare-us-military">Weaponised AI is coming. Are algorithmic forever wars our future?</a>, <em>The Guardian</em>, October 11, 2018.</li>
