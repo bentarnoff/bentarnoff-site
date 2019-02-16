@@ -45,6 +45,7 @@ ben AT bentarnoff.com<br>
 	</div>
 	<div class="col-md-6">
 	<div class="column">
+		<br><br>
 		<h2>2017</h2>
 		<li><a href="https://www.theguardian.com/technology/2017/dec/14/facebook-russia-social-media-propaganda">The new cold war: how our focus on Russia obscures social media's real threat</a>, <em>The Guardian</em>, December 14, 2017.</li>
 
@@ -114,6 +115,7 @@ ben AT bentarnoff.com<br>
 	</div>
 	<div class="col-md-6">
 	<div class="column">
+	<br><br>
 	<h2>2011-2014</h2>
 	<li><a href="http://www.thedailybeast.com/articles/2014/04/19/mark-twain-writing-coach-and-role-model.html">Mark Twain, Writing Coach and Role Model</a>, <em>The Daily Beast</em>, April 19, 2014.</li>
 
