@@ -9,7 +9,13 @@ ben AT bentarnoff.com<br>
 
 <div class="jumbo">
 	<div class="row">
-	<div class="col-md-3">
+	<div class="col-md-6">
+	<div class="column">
+		<h2>2019</h2>
+		<li><a href="https://newrepublic.com/article/153046/stark-political-divide-tech-ceos-employees">The Stark Political Divide Between Tech CEOs and Their Employees</a>, <em>The New Republic</em>, February 7, 2019.</li>
+	</div>
+	</div>
+	<div class="col-md-6">
 	<div class="column">
 		<h2>2018</h2>
 		<li><a href="https://www.theguardian.com/books/2018/dec/17/the-next-left-socialism-in-the-uk-and-the-us">Next left: Corbyn, Sanders and the return of socialism</a>, <em>The Guardian</em>, December 17, 2018.</li>
@@ -37,7 +43,7 @@ ben AT bentarnoff.com<br>
 		<li><a href="https://www.theguardian.com/technology/2018/jan/31/data-laws-corporate-america-capitalism">Data is the new lifeblood of capitalism – don't hand corporate America control</a>, <em>The Guardian</em>, February 1, 2018.</li>
 	</div>
 	</div>
-	<div class="col-md-3">
+	<div class="col-md-6">
 	<div class="column">
 		<h2>2017</h2>
 		<li><a href="https://www.theguardian.com/technology/2017/dec/14/facebook-russia-social-media-propaganda">The new cold war: how our focus on Russia obscures social media's real threat</a>, <em>The Guardian</em>, December 14, 2017.</li>
@@ -77,8 +83,9 @@ ben AT bentarnoff.com<br>
 		<li><a href="https://www.theguardian.com/technology/2017/jan/24/silicon-valley-fights-donald-trump-peter-thiel-palantir">Trump needs tech to achieve his vision. But Silicon Valley isn't having it</a>, <em>The Guardian</em>, January 24, 2017.</li>
 	</div>
 	</div>
-
-	<div class="col-md-3">
+	</div>
+	<div class="row">
+	<div class="col-md-6">
 	<div class="column">
 	<h2>2016</h2>
 	<li><a href="https://www.theguardian.com/books/2016/dec/26/the-attention-merchants-tim-wu-review">The Attention Merchants review – how the web is being debased for profit</a>, <em>The Guardian</em>, December 26, 2016.</li>
@@ -104,7 +111,7 @@ ben AT bentarnoff.com<br>
 	<li><a href="http://www.theguardian.com/us-news/2016/apr/18/bernie-sanders-techies-support-socialism-capitalism">Techies for Bernie: why some best-paid workers are supporting a socialist</a>, <em>The Guardian</em>, April 18, 2016.</li>
 	</div>
 	</div>
-	<div class="col-md-3">
+	<div class="col-md-6">
 	<div class="column">
 	<h2>2011-2014</h2>
 	<li><a href="http://www.thedailybeast.com/articles/2014/04/19/mark-twain-writing-coach-and-role-model.html">Mark Twain, Writing Coach and Role Model</a>, <em>The Daily Beast</em>, April 19, 2014.</li>
