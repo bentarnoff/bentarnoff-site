@@ -87,6 +87,7 @@ ben AT bentarnoff.com<br>
 	<div class="row">
 	<div class="col-md-6">
 	<div class="column">
+	<br><br>
 	<h2>2016</h2>
 	<li><a href="https://www.theguardian.com/books/2016/dec/26/the-attention-merchants-tim-wu-review">The Attention Merchants review – how the web is being debased for profit</a>, <em>The Guardian</em>, December 26, 2016.</li>
 
