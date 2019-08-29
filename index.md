@@ -12,6 +12,7 @@ ben AT bentarnoff.com<br>
 	<div class="col-md-6">
 	<div class="column">
 		<h2>2019</h2>
+		<li><a href="https://www.theguardian.com/books/2019/aug/29/how-to-be-anticaptialist-in-21st-century-erik-olin-wright">How to Be an Anticapitalist in the 21st Century by Erik Olin Wright – review</a>, <em>The Guardian</em>, August 29, 2019.</li>
 		<li><a href="https://newrepublic.com/article/153046/stark-political-divide-tech-ceos-employees">The Stark Political Divide Between Tech CEOs and Their Employees</a>, <em>The New Republic</em>, February 7, 2019.</li>
 	</div>
 	</div>
