@@ -4,7 +4,7 @@ title: Ben Tarnoff
 ---
 
 ben AT bentarnoff.com<br>
-<a href="http://twitter.com/bentarnoff">twitter.com/bentarnoff</a>
+<a href="http://twitter.com/bentarnoff">twitter.com/bentarnoff</a><br>
 I have a newsletter: <a href="https://bentarnoff.substack.com/">bentarnoff.substack.com</a>
 
 
