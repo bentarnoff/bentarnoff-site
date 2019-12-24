@@ -12,6 +12,8 @@ ben AT bentarnoff.com<br>
 	<div class="col-md-6">
 	<div class="column">
 		<h2>2019</h2>
+		<li><a href="https://jacobinmag.com/2019/11/tech-companies-antitrust-monopolies-socialist">A Socialist Plan to Fix the Internet</a>, <em>Jacobin</em>, November 30, 2019.</li>
+		<li><a href="https://tribunemag.co.uk/2019/11/internet-for-all">Internet for All</a>, <em>Tribune</em>, November 14, 2019.</li>
 		<li><a href="https://www.theguardian.com/technology/2019/sep/17/tech-climate-change-luddites-data">To decarbonize we must decomputerize: why we need a Luddite revolution</a>, <em>The Guardian</em>, September 18, 2019.</li>
 		<li><a href="https://www.theguardian.com/technology/2019/sep/10/jeff-bezos-amazon-climate-strike-aecj">Hey, Jeff Bezos: I work for Amazon – and I'm protesting against your firm's climate inaction</a>, <em>The Guardian</em>, September 10, 2019.</li>
 		<li><a href="https://www.theguardian.com/books/2019/aug/29/how-to-be-anticaptialist-in-21st-century-erik-olin-wright">How to Be an Anticapitalist in the 21st Century by Erik Olin Wright – review</a>, <em>The Guardian</em>, August 29, 2019.</li>
