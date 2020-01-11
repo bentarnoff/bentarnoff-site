@@ -3,10 +3,10 @@ layout: page
 title: Ben Tarnoff
 ---
 
-ben AT bentarnoff.com<br>
-<a href="http://twitter.com/bentarnoff">twitter.com/bentarnoff</a><br>
-I have a newsletter: <a href="https://bentarnoff.substack.com/">bentarnoff.substack.com</a>
-
+I'm a tech worker, writer, and co-founder of <a href="https://logicmag.io">logic magazine</a><br>
+my email is ben AT bentarnoff.com<br>
+my twitter is <a href="http://twitter.com/bentarnoff">@bentarnoff</a><br>
+also I have a newsletter: <a href="https://bentarnoff.substack.com/">bentarnoff.substack.com</a>
 
 <div class="jumbo">
 	<div class="row">
