@@ -13,7 +13,7 @@ also I have a newsletter: <a href="https://bentarnoff.substack.com/">bentarnoff.
 	<div class="col-md-6">
 	<div class="column">
 		<h2>2019</h2>
-		<li><a href="https://logicmag.io/nature/from-manchester-to-barcelona/">From Manchester to Berlin</a>, <em>Jacobin</em>, December 7, 2019.</li>
+		<li><a href="https://logicmag.io/nature/from-manchester-to-barcelona/">From Manchester to Berlin</a>, <em>Logic</em>, December 7, 2019.</li>
 		<li><a href="https://jacobinmag.com/2019/11/tech-companies-antitrust-monopolies-socialist">A Socialist Plan to Fix the Internet</a>, <em>Jacobin</em>, November 30, 2019.</li>
 		<li><a href="https://tribunemag.co.uk/2019/11/internet-for-all">Internet for All</a>, <em>Tribune</em>, November 14, 2019.</li>
 		<li><a href="https://www.theguardian.com/technology/2019/sep/17/tech-climate-change-luddites-data">To decarbonize we must decomputerize: why we need a Luddite revolution</a>, <em>The Guardian</em>, September 18, 2019.</li>
