@@ -1,75 +1,30 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-	<meta name="description" content="Ben Tarnoff: tech worker, writer, co-founder of Logic Magazine.">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Ben Tarnoff</title>
-	<link rel="stylesheet" href="main.css">
-	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+---
+layout: page
+title: Ben Tarnoff
+---
 
-</head>
-<body>
-<div class="content-wrapper">
-<div class="content-inner">
-<div class="container-fluid">
-<div class="row">
-<div class="col-md-6" id="content">
-<h1>ben tarnoff</h1>
-</div>
-</div>
-<div class="row">
-<div class="col-md-6" id="content">I'm a tech worker, writer, and co-founder of <a href="https://logicmag.io/">Logic Magazine</a>.
-</div></div>
-<div class="row">
-<div class="col-md-6" id="content" align="right">
-My email address is ben AT bentarnoff.com.<br>
-My Twitter is <a href="http://twitter.com/bentarnoff">@bentarnoff</a>.<br>
-I also have a very irregular <a href="https://bentarnoff.substack.com">newsletter.</a></div></div>
-<div class="row">
-<div class="col-md-6" id="content">
-You can find a complete list of my pieces below. If you're looking for a place to start, I'd recommend <a href="https://logicmag.io/nature/from-manchester-to-barcelona/">"From Manchester to Barcelona."</a> It's probably the most complete distillation of my thinking about technology so far.
-</div>
-</div>
-<div class="row">
-<div class="col-md-6" id="content">
-</div>
-</div>
-<div class="row">
-<div class="col-md-8" id="content">
-</div>
-</div>
-<div class="row">
-<div class="col-md-10" id="content">
-</div>
-</div>
-<div class="row">
-<div class="col-md-8" id="content">
-</div>
-</div>
-<div class="row">
-<div class="col-md-7" id="content">
-</div>
-</div>
-<div class="row">
-<div class="col-md-7" id="content" align="left">
-<h3>2019</h3>
+I'm a tech worker, writer, and co-founder of <a href="https://logicmag.io">logic magazine</a><br>
+my email is ben AT bentarnoff.com<br>
+my twitter is <a href="http://twitter.com/bentarnoff">@bentarnoff</a><br>
+also I have a newsletter: <a href="https://bentarnoff.substack.com/">bentarnoff.substack.com</a>
 
-		<li><a href="https://logicmag.io/nature/from-manchester-to-barcelona/">From Manchester to Barcelona</a>, <em>Logic</em>, December 7, 2019.</li>
+<div class="jumbo">
+	<div class="row">
+	<div class="col-md-6">
+	<div class="column">
+		<h2>2019</h2>
+		<li><a href="https://logicmag.io/nature/from-manchester-to-barcelona/">From Manchester to Berlin</a>, <em>Logic</em>, December 7, 2019.</li>
 		<li><a href="https://jacobinmag.com/2019/11/tech-companies-antitrust-monopolies-socialist">A Socialist Plan to Fix the Internet</a>, <em>Jacobin</em>, November 30, 2019.</li>
 		<li><a href="https://tribunemag.co.uk/2019/11/internet-for-all">Internet for All</a>, <em>Tribune</em>, November 14, 2019.</li>
 		<li><a href="https://www.theguardian.com/technology/2019/sep/17/tech-climate-change-luddites-data">To decarbonize we must decomputerize: why we need a Luddite revolution</a>, <em>The Guardian</em>, September 18, 2019.</li>
 		<li><a href="https://www.theguardian.com/technology/2019/sep/10/jeff-bezos-amazon-climate-strike-aecj">Hey, Jeff Bezos: I work for Amazon – and I'm protesting against your firm's climate inaction</a>, <em>The Guardian</em>, September 10, 2019.</li>
 		<li><a href="https://www.theguardian.com/books/2019/aug/29/how-to-be-anticaptialist-in-21st-century-erik-olin-wright">How to Be an Anticapitalist in the 21st Century by Erik Olin Wright – review</a>, <em>The Guardian</em>, August 29, 2019.</li>
 		<li><a href="https://newrepublic.com/article/153046/stark-political-divide-tech-ceos-employees">The Stark Political Divide Between Tech CEOs and Their Employees</a>, <em>The New Republic</em>, February 7, 2019.</li>
-
-</div>
-</div>
-
-<div class="row">
-<div class="col-md-7" id="content">
-<h3>2018</h3>
-
+	</div>
+	</div>
+	<div class="col-md-6">
+	<div class="column">
+		<h2>2018</h2>
 		<li><a href="https://www.theguardian.com/books/2018/dec/17/the-next-left-socialism-in-the-uk-and-the-us">Next left: Corbyn, Sanders and the return of socialism</a>, <em>The Guardian</em>, December 17, 2018.</li>
 		
 		<li><a href="https://socialistforum.dsausa.org/issues/fall-2018/building-socialism-from-below-popular-power-and-the-state/">Building Socialism from Below: Popular Power and the State</a>, <em>Socialist Forum</em>, November 2018.</li>
@@ -93,13 +48,12 @@ You can find a complete list of my pieces below. If you're looking for a place t
 		<li><a href="https://logicmag.io/04-the-data-is-ours/">The Data Is Ours!</a>, <em>Logic</em>, Spring 2018.</li>
 
 		<li><a href="https://www.theguardian.com/technology/2018/jan/31/data-laws-corporate-america-capitalism">Data is the new lifeblood of capitalism – don't hand corporate America control</a>, <em>The Guardian</em>, February 1, 2018.</li>
-
-</div>
-</div>
-
-<div class="row">
-<div class="col-md-7" id="content">
-<h3>2017</h3>
+	</div>
+	</div>
+	<div class="col-md-6">
+	<div class="column">
+		<br><br>
+		<h2>2017</h2>
 		<li><a href="https://www.theguardian.com/technology/2017/dec/14/facebook-russia-social-media-propaganda">The new cold war: how our focus on Russia obscures social media's real threat</a>, <em>The Guardian</em>, December 14, 2017.</li>
 
 		<li><a href="https://www.theguardian.com/technology/2017/nov/29/net-neutrality-internet-basic-right-america-trump-administration">Time to release the internet from the free market – and make it a basic right</a>, <em>The Guardian</em>, November 29, 2017.</li>
@@ -135,14 +89,14 @@ You can find a complete list of my pieces below. If you're looking for a place t
 		<li><a href="https://www.theguardian.com/technology/2017/mar/02/robot-tax-job-elimination-livable-wage">Robots won't just take our jobs – they'll make the rich even richer</a>, <em>The Guardian</em>, March 2, 2017.</li>
 
 		<li><a href="https://www.theguardian.com/technology/2017/jan/24/silicon-valley-fights-donald-trump-peter-thiel-palantir">Trump needs tech to achieve his vision. But Silicon Valley isn't having it</a>, <em>The Guardian</em>, January 24, 2017.</li>
-
-</div>
-</div>
-
-<div class="row">
-<div class="col-md-7" id="content">
-<h3>2016</h3>
-
+	</div>
+	</div>
+	</div>
+	<div class="row">
+	<div class="col-md-6">
+	<div class="column">
+	<br><br>
+	<h2>2016</h2>
 	<li><a href="https://www.theguardian.com/books/2016/dec/26/the-attention-merchants-tim-wu-review">The Attention Merchants review – how the web is being debased for profit</a>, <em>The Guardian</em>, December 26, 2016.</li>
 
 	<li><a href="https://www.theguardian.com/us-news/2016/dec/13/donald-trump-silicon-valley-leaders-neoliberalism-administration">Neoliberalism turned our world into a business. And there are two big winners</a>, <em>The Guardian</em>, December 13, 2016.</li>
@@ -164,13 +118,12 @@ You can find a complete list of my pieces below. If you're looking for a place t
 	<li><a href="https://www.theguardian.com/technology/2016/may/16/universal-basic-income-equality-tech-silicon-valley">Tech billionaires got rich off us. Now they want to feed us the crumbs</a>, <em>The Guardian</em>, May 16, 2016.</li>
 
 	<li><a href="http://www.theguardian.com/us-news/2016/apr/18/bernie-sanders-techies-support-socialism-capitalism">Techies for Bernie: why some best-paid workers are supporting a socialist</a>, <em>The Guardian</em>, April 18, 2016.</li>
-</div>
-</div>
-
-<div class="row">
-<div class="col-md-7" id="content">
-<h3>2011-2014</h3>
-
+	</div>
+	</div>
+	<div class="col-md-6">
+	<div class="column">
+	<br><br>
+	<h2>2011-2014</h2>
 	<li><a href="http://www.thedailybeast.com/articles/2014/04/19/mark-twain-writing-coach-and-role-model.html">Mark Twain, Writing Coach and Role Model</a>, <em>The Daily Beast</em>, April 19, 2014.</li>
 
 	<li><a href="http://www.politico.com/magazine/story/2014/04/cancelcolbert-meet-the-heathen-chinee-105495.html#.U101ROZdVbx">#CancelColbert, Meet &quot;The Heathen Chinee&quot;</a>, <em>Politico</em>, April 8, 2014.</li>
@@ -193,7 +146,6 @@ You can find a complete list of my pieces below. If you're looking for a place t
 
 	<li><a href="http://opinionator.blogs.nytimes.com/2011/03/14/money-for-nothing/">Money for Nothing</a>, <em>The New York Times</em>, March 14, 2011.</li>
 
-</div>
-</div>
-
-</body></html>
+	</div>
+	</div>
+	</div>
